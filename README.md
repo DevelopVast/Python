@@ -1,3 +1,3 @@
 # Python
 
-Repo is mainly for practice purpose
+Main purpose of this repo is for parctice and learning
